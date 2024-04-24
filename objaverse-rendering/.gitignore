@@ -3,6 +3,8 @@ wandb
 views
 tmp
 progress
+~
+.vscode
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
